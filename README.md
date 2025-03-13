@@ -7,7 +7,7 @@
 ## **Table of Contents**
 
 - [Setup & Installation](#-setup--installation)
-- [Dockerfile]
+- [Dockerfile](#-dockerfile-commands-cheat-sheet)
 - [Author](#-author)
 
 ---
